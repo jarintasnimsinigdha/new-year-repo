@@ -2,20 +2,111 @@
 
 .new-year-party {
     font-family: 'Merriweather', serif;
-   background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 200px 140px 55px;
 }
 
 .upper-text {
     color: #FFF;
     text-align: center;
-    font-size: 32px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 400;
 }
 
-.celebration-text {
+.Celebration-text {
     color: #FFF;
     text-align: center;
-    font-size: 72px;
+    font-size: 80px;
     font-weight: 900;
+    margin-top: 2px;
+    margin-bottom: 200px;
+
+
+}
+
+.party-text {
+    justify-content: center;
+}
+
+.first-part {
+    border: 160px;
+}
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.all {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.new-year-photo {
+    padding: 200 0;
+}
+
+.midnight-text {
+    
+    margin-left: 100px;
+}
+
+.welcome-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.midnight-party-text {
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.join {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.midnight-welcome{
+    display: flex;
+    background-image: url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.group70{
+padding-left: 100px;
+}
+.color{
+    color: #F00;
+}
+.place{
+    text-align: center;
+    background-color: rgb(244, 243, 239);
+    box-shadow: #070211;
+    padding: 50px;
+    
 }
