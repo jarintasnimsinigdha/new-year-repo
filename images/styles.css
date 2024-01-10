@@ -6,6 +6,8 @@
     background-repeat: no-repeat;
     background-position: center;
     padding: 200px 140px 55px;
+    border-radius: 16px;
+
 }
 
 .upper-text {
@@ -61,10 +63,12 @@
 
 .new-year-photo {
     padding: 200 0;
+    justify-content: center;
+    align-items: center;
 }
 
 .midnight-text {
-    
+
     margin-left: 100px;
 }
 
@@ -90,23 +94,100 @@
     font-weight: 700;
     text-transform: uppercase;
 }
-.midnight-welcome{
+
+.midnight-welcome {
     display: flex;
     background-image: url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
     background-repeat: no-repeat;
     background-position: center;
+    justify-content: space-around;
 
 }
-.group70{
-padding-left: 100px;
+
+.group70 {
+    padding-left: 100px;
 }
-.color{
+
+.color {
     color: #F00;
 }
-.place{
+
+.place {
     text-align: center;
     background-color: rgb(244, 243, 239);
     box-shadow: #070211;
     padding: 50px;
+
+}
+
+.Coming-Soon {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+
+}
+
+.Ellipse {
+    align-items: center;
+
+}
+
+.gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.Our-Awesome-Portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.Our-Awesome-Portfolio-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 2px;
+}
+.pic1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.pic2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.picture{
+    justify-content: space-between;
     
+}
+.Subscribe-Newsletter{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.Subscribe{
+
+    padding-left: 300px;
+
+}
+.Newsletter{
+    justify-content: center;
+    background-color: palevioletred;
+    
+}
+.Subscribe-Newsletter-text{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 300px;
+    padding-top: 100px;
 }
