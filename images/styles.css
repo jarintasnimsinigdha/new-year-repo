@@ -1,0 +1,21 @@
+/*font style*/
+
+.new-year-party {
+    font-family: 'Merriweather', serif;
+   background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+}
+
+.upper-text {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.celebration-text {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
